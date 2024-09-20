@@ -1,0 +1,15 @@
+body {
+    background-color: white !important;
+}
+.build-pipeline-stage {
+    background-color: white !important;
+    border: 1px solid #d3d3d3 !important;
+}
+.build-pipeline-stage-success {
+    background-color: #e0f7fa !important;
+    color: #00796b !important;
+}
+.build-pipeline-stage-failure {
+    background-color: #ffebee !important;
+    color: #d32f2f !important;
+}
